@@ -1,1 +1,3 @@
-hello word
+hello word!
+git is a version control system!
+git is a free software!
