@@ -1,4 +1,4 @@
-hello word!
+hello! wellcome to git word!
 git is a version control system!
 git is a good and free software!
 git has a mutable called stage;
